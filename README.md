@@ -5,7 +5,7 @@ Lets you convert your desire currency alongside country that you can spend.
 This script requires runtime environment and utilized API below
   - [Fixer](https://fixer.io/)
   - [RestCountries](https://restcountries.eu/)
-  - [NodeJs](https://restcountries.eu/)
+  - [NodeJs](https://nodejs.org/en/)
   
 Install the dependencies and run the script.
 ```sh
